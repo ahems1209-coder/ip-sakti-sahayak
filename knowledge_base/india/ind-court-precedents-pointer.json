@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-COURT-PRECEDENTS",
+    "title": "Public Judicial Precedents & IP Precedent Pointer Registry",
+    "authority": "Supreme Court of India & High Court IP Divisions",
+    "jurisdiction": "India",
+    "document_type": "Precedent Pointer Registry",
+    "version_date": "2024-01-01",
+    "source_url": "https://main.sci.gov.in",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-PRECEDENT-SEC3D-C01",
+      "section_number": "Precedent Pointer 1",
+      "section_title": "Section 3(d) / Section 3(p) Judicial Interpretation on Enhanced Efficacy",
+      "content": "Supreme Court of India binding precedent establishes that mere discovery of a new form of a known substance or known botanical extract without significantly enhanced therapeutic efficacy does not satisfy patentability standards.",
+      "page_number": 1,
+      "category": "Case Law"
+    },
+    {
+      "chunk_id": "IND-PRECEDENT-DEFENSIVE-C02",
+      "section_number": "Precedent Pointer 2",
+      "section_title": "CSIR Defensive Patent Challenges at EPO and USPTO",
+      "content": "Official international judicial challenges by CSIR using traditional knowledge prior art successfully revoked European and US patent grants on Neem (fungicidal use) and Turmeric (wound healing use).",
+      "page_number": 2,
+      "category": "Case Law"
+    }
+  ]
+}

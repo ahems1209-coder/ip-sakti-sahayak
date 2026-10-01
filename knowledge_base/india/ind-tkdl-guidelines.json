@@ -1,0 +1,26 @@
+{
+  "document": {
+    "id": "DOC-IND-TKDL-GUIDELINES",
+    "title": "Traditional Knowledge Digital Library (TKDL) Institutional Framework",
+    "authority": "CSIR & Ministry of Ayush",
+    "jurisdiction": "India",
+    "document_type": "Institutional Framework",
+    "version_date": "2001-01-01",
+    "source_url": "https://www.tkdl.res.in",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-TKDL-FRAMEWORK-C01",
+      "section_number": "Institutional Scope",
+      "section_title": "TKDL Defensive Protection Mechanism & Access Policy",
+      "content": "The Traditional Knowledge Digital Library (TKDL) is a digital repository of traditional knowledge documented from classical Indian systems of medicine (Ayurveda, Siddha, Unani, Sowa Rigpa). TKDL acts as a defensive prior art database to prevent bio-piracy and wrongful patent grants at international patent offices. Public access is limited to institutional overview and access policy documents; full internal formulation data access is restricted under non-disclosure agreements with recognized International Patent Offices (IPOs).",
+      "page_number": 1,
+      "category": "Traditional Knowledge",
+      "metadata": {
+        "access_type": "mixed",
+        "access_restriction": "Restricted - CSIR Access Agreement Required for Detailed Repository Search"
+      }
+    }
+  ]
+}

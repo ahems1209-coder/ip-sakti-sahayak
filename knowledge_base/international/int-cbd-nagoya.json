@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-INT-CBD-NAGOYA",
+    "title": "Nagoya Protocol on Access to Genetic Resources and Benefit Sharing",
+    "authority": "Convention on Biological Diversity (CBD)",
+    "jurisdiction": "International",
+    "document_type": "Treaty",
+    "version_date": "2010-10-29",
+    "source_url": "https://www.cbd.int/abs/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-NAGOYA-ART05-C01",
+      "section_number": "Article 5",
+      "section_title": "Fair and Equitable Benefit-Sharing",
+      "content": "Article 5(1): In accordance with Article 15, paragraphs 3 and 7 of the Convention, benefits arising from the utilization of genetic resources as well as subsequent applications and commercialization shall be shared in a fair and equitable way with the Party providing such resources.",
+      "page_number": 6,
+      "category": "Biodiversity / ABS"
+    },
+    {
+      "chunk_id": "INT-NAGOYA-ART07-C02",
+      "section_number": "Article 7",
+      "section_title": "Access to Traditional Knowledge Associated with Genetic Resources",
+      "content": "Article 7: In accordance with domestic law, each Party shall take measures, as appropriate, with the aim of ensuring that traditional knowledge associated with genetic resources that is held by indigenous and local communities is accessed with the prior informed consent or approval and involvement of these indigenous and local communities.",
+      "page_number": 7,
+      "category": "Biodiversity / ABS"
+    }
+  ]
+}

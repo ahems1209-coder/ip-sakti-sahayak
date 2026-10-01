@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-BDA-2002",
+    "title": "Biological Diversity Act, 2002",
+    "authority": "National Biodiversity Authority (NBA)",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "2003-02-05",
+    "source_url": "http://nbaindia.org",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-BDA-2002-SEC03-C01",
+      "section_number": "Section 3",
+      "section_title": "Certain Persons Not to Undertake Biodiversity Related Activities Without Approval",
+      "content": "Section 3(1): No person who is not a citizen of India, or a body corporate, association or organisation not incorporated or registered in India, or incorporated in India with non-Indian participation in share capital or management, shall obtain any biological resource occurring in India or knowledge associated thereto for research or for commercial utilization or for bio-survey and bio-utilization without prior approval of the National Biodiversity Authority.",
+      "page_number": 5,
+      "category": "Biodiversity / ABS"
+    },
+    {
+      "chunk_id": "IND-BDA-2002-SEC06-C02",
+      "section_number": "Section 6",
+      "section_title": "Application for Intellectual Property Rights Not to be Made Without Approval of Authority",
+      "content": "Section 6(1): No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India, without obtaining the prior approval of the National Biodiversity Authority before making such application.",
+      "page_number": 8,
+      "category": "Biodiversity / ABS"
+    }
+  ]
+}

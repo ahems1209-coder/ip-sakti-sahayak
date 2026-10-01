@@ -1,0 +1,22 @@
+{
+  "document": {
+    "id": "DOC-INT-WIPO-TK",
+    "title": "WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore",
+    "authority": "World Intellectual Property Organization (WIPO)",
+    "jurisdiction": "International",
+    "document_type": "Framework",
+    "version_date": "2024-05-24",
+    "source_url": "https://www.wipo.int/tk/en/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-WIPO-TK-ART01-C01",
+      "section_number": "Article 1",
+      "section_title": "Protection of Genetic Resources & Associated Traditional Knowledge",
+      "content": "Article 1: Contracting parties shall provide measures to prevent the erroneous grant of patents for inventions that are based on genetic resources and associated traditional knowledge that are not novel or involve an inventive step over prior art.",
+      "page_number": 2,
+      "category": "Traditional Knowledge"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": {
+    "id": "DOC-INT-TRIPS",
+    "title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+    "authority": "World Trade Organization (WTO)",
+    "jurisdiction": "International",
+    "document_type": "Agreement",
+    "version_date": "1994-04-15",
+    "source_url": "https://www.wto.org/english/tratop_e/trips_e/trips_e.htm",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-TRIPS-ART27-C01",
+      "section_number": "Article 27",
+      "section_title": "Patentable Subject Matter",
+      "content": "Article 27(1): Subject to the provisions of paragraphs 2 and 3, patents shall be available for any inventions, whether products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application.",
+      "page_number": 18,
+      "category": "Patents"
+    }
+  ]
+}

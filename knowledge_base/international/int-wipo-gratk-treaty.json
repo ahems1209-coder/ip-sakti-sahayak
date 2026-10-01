@@ -1,0 +1,22 @@
+{
+  "document": {
+    "id": "DOC-INT-WIPO-GRATK-2024",
+    "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)",
+    "authority": "World Intellectual Property Organization (WIPO)",
+    "jurisdiction": "International",
+    "document_type": "Treaty",
+    "version_date": "2024-05-24",
+    "source_url": "https://www.wipo.int/diplomatic-conferences/en/genetic-resources/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-WIPO-GRATK-ART03-C01",
+      "section_number": "Article 3",
+      "section_title": "Mandatory Patent Application Disclosure Requirement",
+      "content": "Article 3 establishes a mandatory international disclosure requirement in patent applications. Where a claimed invention is materially based on genetic resources or associated traditional knowledge, applicants must disclose the country of origin or indigenous source.",
+      "page_number": 5,
+      "category": "Traditional Knowledge"
+    }
+  ]
+}

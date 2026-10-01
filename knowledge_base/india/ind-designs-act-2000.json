@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-DESIGNS-2000",
+    "title": "The Designs Act, 2000 & Designs Rules 2001",
+    "authority": "Designs Office (CGPDTM)",
+    "jurisdiction": "India",
+    "document_type": "Act & Rules",
+    "version_date": "2000-05-25",
+    "source_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_44_1_act-2000.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-DESIGNS-2000-SEC04-C01",
+      "section_number": "Section 4",
+      "section_title": "Prohibition of Registration of Certain Designs",
+      "content": "Section 4 provides that a design shall not be registered if it is not new or original, or has been disclosed to the public anywhere in India or in any other country prior to filing date.",
+      "page_number": 6,
+      "category": "Designs"
+    },
+    {
+      "chunk_id": "IND-DESIGNS-2000-SEC11-C02",
+      "section_number": "Section 11",
+      "section_title": "Copyright in Registered Design",
+      "content": "Section 11 confers registered design copyright protection on novel shape, configuration, or ornament applied to industrial herbal packaging containers for ten years.",
+      "page_number": 12,
+      "category": "Designs"
+    }
+  ]
+}

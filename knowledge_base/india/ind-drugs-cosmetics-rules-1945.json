@@ -1,0 +1,38 @@
+{
+  "document": {
+    "id": "DOC-IND-DCR-1945",
+    "title": "Drugs and Cosmetics Rules, 1945 (Part XVI, XVII & Schedule T)",
+    "authority": "CDSCO & Ministry of Ayush",
+    "jurisdiction": "India",
+    "document_type": "Rules",
+    "version_date": "1945-12-21",
+    "source_url": "https://cdsco.gov.in/opencms/opencms/en/Drugs/Ayurveda-Siddha-Unani/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-DCR-1945-RULE153-C01",
+      "section_number": "Rule 153 / Form 25D",
+      "section_title": "Application for License to Manufacture for Sale of Ayurvedic (including Siddha) or Unani Drugs",
+      "content": "Rule 153 mandates that applications for a license to manufacture for sale any Ayurvedic, Siddha, or Unani drug shall be made in Form 25D to the State Licensing Authority, accompanied by proof of compliance with Schedule T Good Manufacturing Practices (GMP).",
+      "page_number": 110,
+      "category": "ASU&H Regulation"
+    },
+    {
+      "chunk_id": "IND-DCR-1945-SCHEDT-C02",
+      "section_number": "Schedule T",
+      "section_title": "Good Manufacturing Practices (GMP) for Ayurvedic, Siddha and Unani Medicines",
+      "content": "Schedule T prescribes factory premises requirements, hygienic conditions, machinery equipment, quality control laboratory standards, and raw material batch testing protocols required for manufacturing licensed ASU drugs.",
+      "page_number": 240,
+      "category": "ASU&H Regulation"
+    },
+    {
+      "chunk_id": "IND-DCR-1945-RULE161-C03",
+      "section_number": "Rule 161",
+      "section_title": "Labeling, Packing and Limit of Alcohol in Ayurvedic (including Siddha) or Unani Drugs",
+      "content": "Rule 161 requires clear display of true list of all active ingredients, botanical names, manufacturing license number, batch number, expiry date, and warning statements on outer containers of ASU medicines.",
+      "page_number": 118,
+      "category": "ASU&H Regulation"
+    }
+  ]
+}

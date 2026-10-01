@@ -1,0 +1,38 @@
+{
+  "document": {
+    "id": "DOC-IND-BD-RULES-2024",
+    "title": "Biological Diversity Rules, 2024 & ABS Regulations 2025",
+    "authority": "National Biodiversity Authority (NBA)",
+    "jurisdiction": "India",
+    "document_type": "Rules & Regulations",
+    "version_date": "2024-01-01",
+    "source_url": "http://nbaindia.org/uploaded/act/BDRULES_2024.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-BD-RULES-RULE14-C01",
+      "section_number": "Rule 14 / Form I",
+      "section_title": "Procedure for Seeking Access to Biological Resources and Associated Knowledge",
+      "content": "Rule 14 mandates submission of Form I to the National Biodiversity Authority (NBA) for non-Indian entities or Indian entities with foreign shareholding seeking access to biological resources or traditional knowledge for research or commercial utilization.",
+      "page_number": 12,
+      "category": "Biodiversity / ABS"
+    },
+    {
+      "chunk_id": "IND-BD-RULES-RULE18-C02",
+      "section_number": "Rule 18 / Form III",
+      "section_title": "Procedure for Seeking Prior Approval for Applying for Intellectual Property Rights",
+      "content": "Rule 18 requires filing Form III to the NBA prior to applying for any intellectual property right inside or outside India based on biological resources obtained from India. Benefit-sharing fee is computed based on purchase price or gross ex-factory sales.",
+      "page_number": 18,
+      "category": "Biodiversity / ABS"
+    },
+    {
+      "chunk_id": "IND-BD-RULES-FORMIV-C03",
+      "section_number": "Form IV / Third-Party Transfer",
+      "section_title": "Transfer of Accessed Biological Resource or Knowledge to Third Party",
+      "content": "Form IV approval from the NBA is mandatory before transferring accessed Indian biological resources or traditional knowledge to any third-party recipient.",
+      "page_number": 24,
+      "category": "Biodiversity / ABS"
+    }
+  ]
+}

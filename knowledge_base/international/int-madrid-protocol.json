@@ -1,0 +1,22 @@
+{
+  "document": {
+    "id": "DOC-INT-MADRID-PROTOCOL",
+    "title": "Madrid Agreement and Protocol Concerning the International Registration of Marks",
+    "authority": "WIPO",
+    "jurisdiction": "International",
+    "document_type": "Treaty",
+    "version_date": "1989-06-27",
+    "source_url": "https://www.wipo.int/madrid/en/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-MADRID-ART02-C01",
+      "section_number": "Article 2",
+      "section_title": "Securing Protection through International Registration",
+      "content": "Article 2 provides that an applicant who has registered or applied for a trademark in an office of origin (such as India TMR) may secure international protection for their mark across contracting countries through a single Madrid application.",
+      "page_number": 3,
+      "category": "Trade Marks"
+    }
+  ]
+}

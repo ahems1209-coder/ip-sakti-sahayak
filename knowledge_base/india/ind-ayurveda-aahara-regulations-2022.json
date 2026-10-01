@@ -1,0 +1,38 @@
+{
+  "document": {
+    "id": "DOC-IND-AYU-AAHARA-2022",
+    "title": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022",
+    "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of Ayush",
+    "jurisdiction": "India",
+    "document_type": "Regulation",
+    "version_date": "2022-05-05",
+    "source_url": "https://www.fssai.gov.in/upload/notifications/2022/05/6274e4492bfefGazette_Notification_Ayurveda_Aahara.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-AYU-AAHARA-REG3-C01",
+      "section_number": "Regulation 3",
+      "section_title": "General Requirements for Ayurveda Aahara",
+      "content": "Regulation 3 defines Ayurveda Aahara as food items prepared in accordance with recipes or ingredients specified in authoritative books of Ayurveda mentioned in Schedule A. It prohibits food business operators from adding synthetic vitamins, minerals, or amino acids to Ayurveda Aahara.",
+      "page_number": 3,
+      "category": "Food & Nutraceuticals"
+    },
+    {
+      "chunk_id": "IND-AYU-AAHARA-REG4-C02",
+      "section_number": "Regulation 4",
+      "section_title": "Labeling Requirements and Special Warning Declarations",
+      "content": "Regulation 4 mandates that every package of Ayurveda Aahara shall carry the official 'Ayurveda Aahara' logo, clear statement of target consumer age group, classical textual reference, and explicit advisory warning: 'FOR DIETARY USE ONLY - NOT FOR MEDICINAL OR THERAPEUTIC USE'.",
+      "page_number": 5,
+      "category": "Food & Nutraceuticals"
+    },
+    {
+      "chunk_id": "IND-AYU-AAHARA-REG6-C03",
+      "section_number": "Regulation 6",
+      "section_title": "Prohibition of Disease Prevention or Cure Claims",
+      "content": "Regulation 6 prohibits any health claim, structure-function claim, or disease prevention/cure claim on Ayurveda Aahara labels unless approved by the FSSAI Expert Committee in consultation with the Ministry of Ayush.",
+      "page_number": 7,
+      "category": "Food & Nutraceuticals"
+    }
+  ]
+}

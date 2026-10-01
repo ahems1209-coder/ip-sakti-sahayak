@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-API-FRAMEWORK",
+    "title": "Ayurvedic Pharmacopoeia of India (API) Monograph Framework",
+    "authority": "Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIM&H)",
+    "jurisdiction": "India",
+    "document_type": "Pharmacopoeial Framework",
+    "version_date": "2021-01-01",
+    "source_url": "https://pcimh.gov.in/api-monographs",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-API-FRAMEWORK-MONO11-C01",
+      "section_number": "General Notice 1.1",
+      "section_title": "Botanical Identity and Purity Standards",
+      "content": "General Notice 1.1 establishes official identity monograph parameters, macroscopic and microscopic characteristics, total ash, acid-insoluble ash, and alcohol-soluble extractive limits for single plant drugs.",
+      "page_number": 4,
+      "category": "Pharmacopoeia"
+    },
+    {
+      "chunk_id": "IND-API-FRAMEWORK-MONO24-C02",
+      "section_number": "General Notice 2.4",
+      "section_title": "Heavy Metal, Pesticide Residue and Microbial Contamination Limits",
+      "content": "General Notice 2.4 sets mandatory permissible limits for heavy metals (Lead, Cadmium, Arsenic, Mercury), pesticide residues, and aflatoxins in raw materials used for manufacturing Ayurvedic medicines.",
+      "page_number": 12,
+      "category": "Pharmacopoeia"
+    }
+  ]
+}

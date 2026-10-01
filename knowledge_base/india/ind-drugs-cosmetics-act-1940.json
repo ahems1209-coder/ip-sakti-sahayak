@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-DCA-1940",
+    "title": "Drugs and Cosmetics Act, 1940 (Chapter IVA)",
+    "authority": "Central Drugs Standard Control Organisation (CDSCO) & Ministry of Ayush",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "1940-04-10",
+    "source_url": "https://cdsco.gov.in",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-DCA-1940-SEC33EEB-C01",
+      "section_number": "Section 33EEB",
+      "section_title": "Prohibition of Manufacture and Sale of Certain Ayurvedic, Siddha or Unani Drugs",
+      "content": "Section 33EEB: No person shall manufacture for sale or distribution any Ayurvedic, Siddha or Unani drug except under, and in accordance with the conditions of, a license issued for such purpose by the Licensing Authority prescribed under Chapter IVA.",
+      "page_number": 42,
+      "category": "ASU&H Regulation"
+    },
+    {
+      "chunk_id": "IND-DCA-1940-SEC33A-C02",
+      "section_number": "Section 33A",
+      "section_title": "Application of Chapter IVA to Ayurvedic, Siddha and Unani Drugs",
+      "content": "Section 33A: This Chapter applies exclusively to Ayurvedic, Siddha and Unani drugs specified in the First Schedule, including classical preparations described in authoritative books specified therein.",
+      "page_number": 40,
+      "category": "ASU&H Regulation"
+    }
+  ]
+}

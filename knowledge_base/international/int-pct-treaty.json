@@ -1,0 +1,22 @@
+{
+  "document": {
+    "id": "DOC-INT-PCT-TREATY",
+    "title": "Patent Cooperation Treaty (PCT)",
+    "authority": "WIPO",
+    "jurisdiction": "International",
+    "document_type": "Treaty",
+    "version_date": "1970-06-19",
+    "source_url": "https://www.wipo.int/pct/en/",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "INT-PCT-ART15-C01",
+      "section_number": "Article 15",
+      "section_title": "The International Search",
+      "content": "Article 15(1): Each international application shall be the subject of an international search. The objective of the international search is to discover relevant prior art, including published traditional knowledge databases.",
+      "page_number": 12,
+      "category": "Patents"
+    }
+  ]
+}

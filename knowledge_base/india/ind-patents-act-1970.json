@@ -1,0 +1,38 @@
+{
+  "document": {
+    "id": "DOC-IND-PAT-1970",
+    "title": "The Patents Act, 1970",
+    "authority": "Controller General of Patents, Designs & Trade Marks (CGPDTM)",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "2005-01-01",
+    "source_url": "https://ipindia.gov.in/patents-act-1970.htm",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-PAT-1970-SEC03P-C01",
+      "section_number": "Section 3(p)",
+      "section_title": "Inventions Not Patentable - Traditional Knowledge",
+      "content": "Section 3(p): An invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components is not an invention within the meaning of this Act.",
+      "page_number": 14,
+      "category": "Patents"
+    },
+    {
+      "chunk_id": "IND-PAT-1970-SEC03E-C02",
+      "section_number": "Section 3(e)",
+      "section_title": "Inventions Not Patentable - Mere Admixtures",
+      "content": "Section 3(e): A substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance is not patentable.",
+      "page_number": 13,
+      "category": "Patents"
+    },
+    {
+      "chunk_id": "IND-PAT-1970-SEC104-C03",
+      "section_number": "Section 10(4)",
+      "section_title": "Specification Contents - Disclosure of Biological Material",
+      "content": "Section 10(4)(d)(ii): If the applicant mentions in a complete specification biological material used in the invention which is not ordinarily available to the public, the applicant must disclose the source and geographical origin of the biological material in the specification.",
+      "page_number": 28,
+      "category": "Patents"
+    }
+  ]
+}

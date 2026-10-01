@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F8FAFC;
+    color: #0F172A;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Custom Institutional Styling Tokens */
+.gov-card {
+  @apply bg-white border border-slate-200 rounded-lg shadow-sm hover:shadow transition-all duration-150;
+}
+
+.gov-badge-verified {
+  @apply inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-xs font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200;
+}
+
+.gov-badge-warning {
+  @apply inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-xs font-semibold bg-amber-50 text-amber-800 border border-amber-200;
+}
+
+.gov-badge-restricted {
+  @apply inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-xs font-semibold bg-purple-50 text-purple-800 border border-purple-200;
+}
+
+.gov-badge-unverified {
+  @apply inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-xs font-semibold bg-slate-100 text-slate-700 border border-slate-200;
+}

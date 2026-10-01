@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-DMRA-1954",
+    "title": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+    "authority": "Ministry of Health and Family Welfare",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "1954-04-30",
+    "source_url": "https://main.mohfw.gov.in/act-rules",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-DMRA-1954-SEC03-C01",
+      "section_number": "Section 3",
+      "section_title": "Prohibition of Advertisement of Certain Drugs for Treatment of Certain Diseases",
+      "content": "Section 3 prohibits advertisements alleging that any drug, traditional remedy, or magic cure can diagnose, cure, mitigate, or prevent specified conditions listed in the Schedule (including diabetes, cancer, blindness, and paralysis).",
+      "page_number": 2,
+      "category": "Advertising & Labeling"
+    },
+    {
+      "chunk_id": "IND-DMRA-1954-SEC04-C02",
+      "section_number": "Section 4",
+      "section_title": "Prohibition of Misleading Advertisements Relating to Drugs",
+      "content": "Section 4 prohibits advertisements that directly or indirectly give false impressions regarding the true character or efficacy of any drug, or make false therapeutic claims.",
+      "page_number": 4,
+      "category": "Advertising & Labeling"
+    }
+  ]
+}

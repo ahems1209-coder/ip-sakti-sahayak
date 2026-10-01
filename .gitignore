@@ -1,0 +1,33 @@
+# Environment files and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!frontend/.env.example
+
+# Python
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Node and frontend build output
+node_modules/
+**/node_modules/
+frontend/dist/
+frontend/.vercel/
+.vite/
+
+# Local databases and logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

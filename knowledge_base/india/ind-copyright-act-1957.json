@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-COPYRIGHT-1957",
+    "title": "The Copyright Act, 1957 (as amended)",
+    "authority": "Copyright Office (DPIIT)",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "2012-06-08",
+    "source_url": "https://copyright.gov.in/documents/copyrightrules1957.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-COPYRIGHT-1957-SEC13-C01",
+      "section_number": "Section 13",
+      "section_title": "Works in which Copyright Subsists",
+      "content": "Section 13 provides that copyright subsists in original literary, dramatic, musical and artistic works, including original translations, commentaries, and analytical compilations of classical Ayurvedic texts.",
+      "page_number": 8,
+      "category": "Copyright"
+    },
+    {
+      "chunk_id": "IND-COPYRIGHT-1957-SEC52-C02",
+      "section_number": "Section 52",
+      "section_title": "Certain Acts Not to be Infringement of Copyright (Fair Dealing)",
+      "content": "Section 52 specifies acts that do not constitute infringement, including fair dealing for research, private study, criticism, or review of medical literature.",
+      "page_number": 28,
+      "category": "Copyright"
+    }
+  ]
+}

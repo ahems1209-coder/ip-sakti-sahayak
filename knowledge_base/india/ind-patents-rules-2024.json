@@ -1,0 +1,38 @@
+{
+  "document": {
+    "id": "DOC-IND-PAT-RULES-2024",
+    "title": "The Patents Rules, 2003 (as amended by Patents Amendment Rules 2024)",
+    "authority": "Controller General of Patents, Designs & Trade Marks (CGPDTM)",
+    "jurisdiction": "India",
+    "document_type": "Rules",
+    "version_date": "2024-03-15",
+    "source_url": "https://ipindia.gov.in/writereaddata/Portal/IPORule/1_42_1_patent-rules-2003.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-PAT-RULES-RULE12-C01",
+      "section_number": "Rule 12",
+      "section_title": "Statement and Undertaking Regarding Foreign Applications",
+      "content": "Rule 12 mandates that the applicant shall file a statement and undertaking in Form 3 within six months from the date of filing the application in India regarding details of corresponding patent applications filed in foreign jurisdictions.",
+      "page_number": 8,
+      "category": "Patents"
+    },
+    {
+      "chunk_id": "IND-PAT-RULES-RULE55-C02",
+      "section_number": "Rule 55",
+      "section_title": "Opposition to the Grant of Patent (Pre-Grant)",
+      "content": "Rule 55 prescribes the procedure for pre-grant opposition under Section 25(1) of the Patents Act, 1970. Any person may file a representation in Form 7A challenging patentability based on Section 3(p) traditional knowledge prior to grant.",
+      "page_number": 25,
+      "category": "Patents"
+    },
+    {
+      "chunk_id": "IND-PAT-RULES-FORM18-C03",
+      "section_number": "Form 18",
+      "section_title": "Request for Examination of Application for Patent",
+      "content": "Form 18 must be submitted under Rule 24B within thirty-one months from the date of priority or date of filing of the patent application to trigger formal examination by the Patent Office.",
+      "page_number": 42,
+      "category": "Patents"
+    }
+  ]
+}

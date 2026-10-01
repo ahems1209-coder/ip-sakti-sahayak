@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "DOC-IND-PPVFR-2001",
+    "title": "Protection of Plant Varieties and Farmers' Rights Act, 2001",
+    "authority": "Protection of Plant Varieties and Farmers' Rights Authority (PPV&FRA)",
+    "jurisdiction": "India",
+    "document_type": "Act",
+    "version_date": "2001-10-30",
+    "source_url": "https://plantauthority.gov.in/pdf/PPV&FR_ACT_2001.pdf",
+    "verification_status": "verified"
+  },
+  "sections": [
+    {
+      "chunk_id": "IND-PPVFR-2001-SEC15-C01",
+      "section_number": "Section 15",
+      "section_title": "Registerable Varieties - Distinctiveness, Uniformity and Stability (DUS)",
+      "content": "Section 15 provides that a new plant variety of medicinal or aromatic plants may be registered if it satisfies DUS criteria: Novelty, Distinctiveness, Uniformity, and Stability based on official DUS testing protocols.",
+      "page_number": 10,
+      "category": "Plant Varieties"
+    },
+    {
+      "chunk_id": "IND-PPVFR-2001-SEC28-C02",
+      "section_number": "Section 28 / Section 39",
+      "section_title": "Rights of Breeder and Farmers' Rights",
+      "content": "Section 28 confers exclusive right on the breeder to produce, sell, market, distribute, import or export the registered variety. Section 39 safeguards farmers' rights to save, use, sow, re-sow, exchange, or share farm produce including seeds of protected varieties.",
+      "page_number": 18,
+      "category": "Plant Varieties"
+    }
+  ]
+}
