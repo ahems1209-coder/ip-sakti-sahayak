@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "buildCommand": "cd frontend && npm run build",
-  "outputDirectory": "frontend/dist",
+  "buildCommand": "node build.js",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/api/(.*)",
