@@ -1,17 +1,17 @@
 // API Client Service connecting React Frontend to FastAPI Backend
 
-const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || '').replace(/\/+$/, '');
-
-if (import.meta.env.PROD) {
-  if (!API_BASE_URL) {
-    throw new Error('VITE_API_BASE_URL must be configured for production builds.');
+const getBaseUrl = () => {
+  const envUrl = import.meta.env.VITE_API_BASE_URL;
+  if (envUrl && envUrl.trim()) {
+    return envUrl.trim().replace(/\/+$/, '');
   }
-
-  const backendUrl = new URL(API_BASE_URL);
-  if (backendUrl.protocol !== 'https:' || ['localhost', '127.0.0.1'].includes(backendUrl.hostname)) {
-    throw new Error('VITE_API_BASE_URL must use the deployed HTTPS backend origin.');
+  if (typeof window !== 'undefined' && window.location && window.location.origin) {
+    return window.location.origin.replace(/\/+$/, '');
   }
-}
+  return '';
+};
+
+const API_BASE_URL = getBaseUrl();
 
 const apiUrl = (path) => `${API_BASE_URL}${path}`;
 
