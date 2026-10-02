@@ -2,7 +2,10 @@
   "name": "ip-sakti-sahayak",
   "private": true,
   "version": "1.0.0",
+  "workspaces": [
+    "frontend"
+  ],
   "scripts": {
-    "build": "node build.cjs"
+    "build": "npm run build --workspace=frontend"
   }
 }
