@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "postinstall": "node -e \"const fs=require('fs'); if(!fs.existsSync('frontend')){try{fs.symlinkSync('.','frontend','dir')}catch(e){try{fs.mkdirSync('frontend');fs.writeFileSync('frontend/package.json',JSON.stringify({name:'sub-frontend',scripts:{build:'vite build'}}))}catch(err){}}}\""
   },
   "dependencies": {
     "react": "^18.2.0",
